@@ -33,16 +33,16 @@ sidebar:
     languages:
       title: Languages
       info:
-        - idiom: German
+        - idiom: 🇩🇪 German
           level: Native
 
-        - idiom: English
+        - idiom: 🇬🇧 English
           level: Professional
 
-        - idiom: French
+        - idiom: 🇫🇷 French
           level: Intermediate
 
-        - idion: Dutch
+        - idion: 🇳🇱 Dutch
           level: Beginner
 
     interests:
