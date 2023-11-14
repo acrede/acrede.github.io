@@ -42,7 +42,7 @@ sidebar:
         - idiom: 🇫🇷 French
           level: Intermediate
 
-        - idion: 🇳🇱 Dutch
+        - idiom: 🇳🇱 Dutch
           level: Beginner
 
     interests:
@@ -70,7 +70,7 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: B.Sc. Financial Mathematics
+      - degree: Financial Mathematics
         university: Technical University of Braunschweig
         time: 2015 - 2021
         details: |
@@ -162,24 +162,24 @@ projects:
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
 
-oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+# oss:
+#     title: OSS Contributions
+#     intro: >
+#       You can list your open source software contributions in this
+#       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#     contributions:
+#       - title: Tempo
+#         link: "#"
+#         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+#       - title: Atom
+#         link: "#"
+#         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+#       - title: Delta
+#         link: "#"
+#         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 # publications:
 #     title: Publications
@@ -201,11 +201,11 @@ skills:
       - name: Python
         level: 90%
 
-      - name: Django
-        level: 75%
-
       - name: HTML5 & CSS
         level: 90%
+
+      - name: Django
+        level: 75%
 
 # footer: >
     # Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
