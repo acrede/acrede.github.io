@@ -1,3 +1,12 @@
+# Resume
+
+## Test locally
+1. `jekyll serve --watch --force_polling --verbose --livereload --host 0.0.0.0`
+
+
+---
+
+
 <a href="https://jekyll-themes.com">
 <img src="https://img.shields.io/badge/featured%20on-JT-red.svg" height="20" alt="Jekyll Themes Shield" >
 </a>
