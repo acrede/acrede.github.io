@@ -48,14 +48,12 @@ sidebar:
     interests:
       title: Interests
       info:
-        - item: Climbing
-          link:
+        - item: Programming
+          # link:
 
-        - item: Snowboarding
-          link:
+        # - item: Snowboarding
+          # link:
 
-        - item: Cooking
-          link:
 
 career-profile:
     title: Summary
@@ -89,17 +87,11 @@ experiences:
         time: 03/2023 - Present
         company: PŸUR | Tele Columbus
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
+          Building up a data science team from scratch and delivering valuable
+          insights for our company.
+            - Recruitment and development of a top-tier data science team
+            - Foster a data-driven culture within the organization
+            - Adoption and implementation of a modern data stack.
 
       - role: Business Intelligence Developer
         time: 10/2021 - 02/2023
