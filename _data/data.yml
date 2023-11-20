@@ -87,8 +87,8 @@ experiences:
         time: 03/2023 - Present
         company: PŸUR | Tele Columbus
         details: |
-          Building up a data science team from scratch and delivering valuable
-          insights for our company.
+          Building up a data science team and delivering valuable
+          insights for the business.
             - Recruitment and development of a top-tier data science team
             - Foster a data-driven culture within the organization
             - Adoption and implementation of a modern data stack.
@@ -152,6 +152,9 @@ projects:
       - title: Velocity
         link: "#hook"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tags:
+          - tag1
+          - tag2
 
 
 # oss:
