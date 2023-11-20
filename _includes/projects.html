@@ -31,9 +31,11 @@
       - <span class="project-tagline">{{ project.tagline }}</span>
       {% endif %}
 
+      <div>
       {% for tag in project.tags %}
-        <div class="tag">{{ tag.name }}</div>
+        <span class="tag">{{ tag.name }}></span>
       {% endfor %}
+      </div>
 
     </div><!--//item-->
   {% endfor %}
