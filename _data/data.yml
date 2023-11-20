@@ -153,8 +153,9 @@ projects:
         link: "#hook"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
         tags:
-          - tag1
-          - tag2
+          - name: tag1
+            color: red
+          - name: tag2
 
 
 # oss:
