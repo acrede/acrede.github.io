@@ -153,9 +153,11 @@ projects:
         link: "#hook"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
         tags:
-          - name: tag1
-            color: red
-          - name: tag2
+          - name: Python
+            # color: red
+          - name: Django
+          - name: Redis
+          - name: Docker
 
 
 # oss:
