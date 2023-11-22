@@ -70,15 +70,14 @@ education:
     info:
       - degree: Financial Mathematics
         university: Technical University of Braunschweig
-        time: 2015 - 2021
+        time: 2015 - 2020
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          I hold a degree in Financial and Economic Mathematics, a comprehensive program that uniquely
+          blends advanced mathematical principles with a strong foundation in economics and computer science.
+          This interdisciplinary education has equipped me with a robust skill set,
+          making me well-suited for many different data roles.
+          My studies taught me a quantitative mindset, analytical prowess, and a solid understanding
+          of economic principles.
 
 experiences:
     title: Experiences
@@ -116,6 +115,13 @@ experiences:
           pellentesque eu, pretium quis, sem.
             - Bullet point
             - Bullet point
+
+      - role: Financial Analyst
+        time: 2019 - 2020
+        company: Volkswagen Bank
+        details: |
+          Describe your role here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor.
 
 # certifications:
 #       title: Certifications
