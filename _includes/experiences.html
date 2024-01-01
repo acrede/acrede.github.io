@@ -29,6 +29,13 @@
     </div><!--//details-->
     {% endif %}
 
+    <!--//tags-->
+    <div>
+      {% for tag in experience.tags %}
+        <span class="tag">{{ tag.name }}</span>
+      {% endfor %}
+    </div>
+
   </div><!--//item-->
   {% endfor %}
 
