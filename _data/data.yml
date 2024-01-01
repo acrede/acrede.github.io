@@ -81,6 +81,20 @@ education:
             - Analytical prowess
             - Solid understanding of economic principles
 
+      - degree: Banking Professional
+        university: Targobank AG | Industrie- und Handelskammer  Halle-Dessau
+        time: 2012 - 2015
+        details: |
+          During my training as a banking professional I developed proficiency in credit assessment, financial
+          analysis and investment advisory. I specialized in mortgage financing, gaining hands-on experience in
+          assessing and facilitating real estate transactions. Furthermore, I managed internal accounts, enhancing
+          my skills in precise financial documentation, compliance and reporting.
+
+            - Expertise in financial analysis and risk evaluation
+            - Compliance with regulatory requirements and understanding of industry standards
+            - Solid foundation in banking operations and industry-specific knowledge 
+            - Strong sales and customer service skills
+
 experiences:
     title: Experiences
     info:
