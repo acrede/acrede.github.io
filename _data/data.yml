@@ -137,8 +137,14 @@ experiences:
         time: 2019 - 2020
         company: Volkswagen Bank
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor.
+          I rejoined my department where I worked on as working student and took more
+          responsiblity for the reporting processes in Risk Management and other departments.
+          This included developing and automating the existing reports and working together
+          with other business teams to create new insights from data.
+
+          - Automation and optimization of business processes
+          - Development of data-driven analyses to address strategic and operational inquiries
+          - Design, modeling, and development of database applications
 
       - role: Data Scientist
         time: 2018
