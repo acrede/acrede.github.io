@@ -157,6 +157,11 @@ experiences:
       - role: Working Student Risk Management
         time: 2016 - 2018
         company: Volkswagen Bank
+        tags:
+          - name: Python
+          - name: Excel
+          - name: VBA
+          - name: SAP BW
         details: |
           In my role withing Risk Management I led the automation and refinement of
           manual reporting procedures. Utilizing my expertise in databases, APIs and
