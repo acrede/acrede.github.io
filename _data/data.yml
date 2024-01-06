@@ -114,6 +114,11 @@ experiences:
       - role: Business Intelligence Analyst
         time: 10/2021 - 02/2023
         company: PŸUR | Tele Columbus
+        tags:
+          - Python
+          - dbt
+          - Oracle DB
+          - SAP Data Services
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -126,6 +131,9 @@ experiences:
       - role: Data Engineer
         time: 2020 - 2021
         company: ETL AG
+        tags:
+          - Docker
+          - PostgreSQL
         details: |
           My primary role was to develop an innovative solution for the
           audit needs of our customers. This was achieved by modernizing
