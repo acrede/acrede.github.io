@@ -101,6 +101,9 @@ experiences:
       - role: Head of Data Science
         time: 03/2023 - Present
         company: PŸUR | Tele Columbus
+        tags:
+          - Machine Learning
+          - MLOps
         details: |
           Building up a data science team and delivering valuable
           insights for the business.
@@ -136,6 +139,8 @@ experiences:
       - role: Financial Analyst
         time: 2019 - 2020
         company: Volkswagen Bank
+        tags:
+          - Python
         details: |
           I rejoined my department where I worked on as working student and took more
           responsiblity for the reporting processes in Risk Management and other departments.
@@ -149,6 +154,9 @@ experiences:
       - role: Data Scientist
         time: 2018
         company: Kroschke sign-international
+        tags:
+          - Python
+          - Machine Learning
         details: |
           During my studium I was able to work part-time with a team of data scientists
           on developing machine learning models for targeted marketing and recommendation
