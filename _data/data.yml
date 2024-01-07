@@ -19,8 +19,8 @@ sidebar:
     # citizenship:
     # website: blog.webjeda.com #do not add http://
     linkedin:
-      - title: andreas-crede
-        link: https://www.linkedin.com/in/andreas-crede
+      title: andreas-crede
+      link: https://www.linkedin.com/in/andreas-crede
     # xing: alandoe
     github: acrede
     # telegram: # add your nickname without '@' sign
