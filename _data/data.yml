@@ -51,9 +51,6 @@ sidebar:
         - item: Programming
           # link:
 
-        # - item: Snowboarding
-          # link:
-
 
 career-profile:
     title: Summary
@@ -77,12 +74,13 @@ education:
           This interdisciplinary education has equipped me with a robust skill set,
           making me well-suited for many different data roles.
 
+            - Strong mathematical and statistical foundations
             - Quantitative mindset
             - Analytical prowess
             - Solid understanding of economic principles
 
       - degree: Banking Professional
-        university: Targobank AG | Industrie- und Handelskammer  Halle-Dessau
+        university: Targobank AG | Industrie- und Handelskammer Halle-Dessau
         time: 2012 - 2015
         details: |
           During my training as a banking professional I developed proficiency in credit assessment, financial
@@ -103,13 +101,17 @@ experiences:
         company: PŸUR | Tele Columbus
         tags:
           - Machine Learning
+          - Leadership
           - MLOps
+          - AWS
         details: |
-          Building up a data science team and delivering valuable
-          insights for the business.
-            - Recruitment and development of a top-tier data science team
-            - Foster a data-driven culture within the organization
-            - Adoption and implementation of a modern data stack.
+          As Head of Data Science I was tasked with building up the data science team from
+          scratch, orchestrating recruitment, team development and implementing strategic
+          initiatives to enhance the organization's data analytics capabilities.
+
+            - Recruitment and development of a high-performing data science team
+            - Cultivated a data-driven culture across the organization
+            - Implemented a modern data stack to optimize data analytics capabilities.
 
       - role: Business Intelligence Analyst
         time: 10/2021 - 02/2023
@@ -118,15 +120,17 @@ experiences:
           - Python
           - dbt
           - Oracle DB
-          - SAP Data Services
+          - Qlik Sende Enterprise
+          - Apache Airflow
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+           In  my role as Business Intelligence Analyst I contributed to the team's innovative efforts
+           by promoting the introduction of Python into our team's tech stack and introducing and administering
+           a new self-service BI tool.
+           I also worked together with our business departments in developing a better understanding of
+           their data.
+
+             - Advanced analytics and report creation
+             - Introduction of the modern data stack
 
       - role: Data Engineer
         time: 2020 - 2021
@@ -135,6 +139,7 @@ experiences:
           - Docker
           - PostgreSQL
           - Python
+          - Apache Spark
         details: |
           My primary role was to develop an innovative solution for the
           audit needs of our customers. This was achieved by modernizing
