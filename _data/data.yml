@@ -287,5 +287,11 @@ skills:
       - name: Docker
         level: 60%
 
+      - name: Relational Databases (PostgreSQL, Oracle)
+        level: 75%
+
+      - name: Apache Airflow
+        level: 75%
+
 # footer: >
     # Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
