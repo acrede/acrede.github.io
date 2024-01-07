@@ -18,7 +18,7 @@ sidebar:
     # timezone: Europe/Berlin Timezone
     # citizenship:
     # website: blog.webjeda.com #do not add http://
-    # linkedin: https://www.linkedin.com/in/andreas-cred%C3%A9-2ba550101/
+    linkedin: https://www.linkedin.com/in/andreas-crede
     # xing: alandoe
     github: acrede
     # telegram: # add your nickname without '@' sign
@@ -134,6 +134,7 @@ experiences:
         tags:
           - Docker
           - PostgreSQL
+          - Python
         details: |
           My primary role was to develop an innovative solution for the
           audit needs of our customers. This was achieved by modernizing
