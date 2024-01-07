@@ -100,10 +100,10 @@ experiences:
         time: 03/2023 - Present
         company: PŸUR | Tele Columbus
         tags:
-          - Machine Learning
-          - Leadership
-          - MLOps
-          - AWS
+          - name: Machine Learning
+          - name: Leadership
+          - name: MLOps
+          - name: AWS
         details: |
           As Head of Data Science I was tasked with building up the data science team from
           scratch, orchestrating recruitment, team development and implementing strategic
@@ -117,11 +117,11 @@ experiences:
         time: 10/2021 - 02/2023
         company: PŸUR | Tele Columbus
         tags:
-          - Python
-          - dbt
-          - Oracle DB
-          - Qlik Sende Enterprise
-          - Apache Airflow
+          - name: Python
+          - name: dbt
+          - name: Oracle DB
+          - name: Qlik Sende Enterprise
+          - name: Apache Airflow
         details: |
            In  my role as Business Intelligence Analyst I contributed to the team's innovative efforts
            by promoting the introduction of Python into our team's tech stack and introducing and administering
@@ -136,10 +136,10 @@ experiences:
         time: 2020 - 2021
         company: ETL AG
         tags:
-          - Docker
-          - PostgreSQL
-          - Python
-          - Apache Spark
+          - name: Docker
+          - name: PostgreSQL
+          - name: Python
+          - name: Apache Spark
         details: |
           My primary role was to develop an innovative solution for the
           audit needs of our customers. This was achieved by modernizing
@@ -154,7 +154,10 @@ experiences:
         time: 2019 - 2020
         company: Volkswagen Bank
         tags:
-          - Python
+          - name: Python
+          - name: R
+          - name: VBA
+          - name: VB.NET
         details: |
           I rejoined my department where I worked on as working student and took more
           responsiblity for the reporting processes in Risk Management and other departments.
@@ -169,8 +172,8 @@ experiences:
         time: 2018
         company: Kroschke sign-international
         tags:
-          - Python
-          - Machine Learning
+          - name: Python
+          - name: Machine Learning
         details: |
           During my studium I was able to work part-time with a team of data scientists
           on developing machine learning models for targeted marketing and recommendation
