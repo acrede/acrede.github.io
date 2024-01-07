@@ -122,6 +122,7 @@ experiences:
           - name: Oracle DB
           - name: Qlik Sende Enterprise
           - name: Apache Airflow
+          - name: Django
         details: |
            In  my role as Business Intelligence Analyst I contributed to the team's innovative efforts
            by promoting the introduction of Python into our team's tech stack and introducing and administering
@@ -287,8 +288,10 @@ skills:
       - name: Django
         level: 80%
 
+      - name: PostgreSQL
+        level: 75%
 
-      - name: Relational Databases (PostgreSQL, Oracle)
+      - name: Oracle
         level: 75%
 
       - name: Apache Airflow
