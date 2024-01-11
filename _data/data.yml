@@ -45,22 +45,22 @@ sidebar:
         - idiom: 🇳🇱 Dutch
           level: Beginner
 
-    interests:
-      title: Interests
-      info:
-        - item: Programming
+    # interests:
+    #   title: Interests
+    #   info:
+    #     - item: Programming
           # link:
 
 
-career-profile:
-    title: Summary
-    summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+# career-profile:
+#     title: Summary
+#     summary: |
+#       Summarise your career here lorem ipsum dolor sit amet, consectetuer
+#       adipiscing elit. You can [download this free resume/CV template here]().
+#       Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
+#       penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+#       Donec quam felis, ultricies nec, pellentesque eu.
+#       Second paragraph if required.
 
 education:
     title: Education
@@ -98,24 +98,25 @@ experiences:
     info:
       - role: Head of Data Science
         time: 03/2023 - Present
-        company: PŸUR | Tele Columbus
+        company: PŸUR | Tele Columbus AG
         tags:
+          - name: Python
           - name: Machine Learning
           - name: Leadership
           - name: MLOps
           - name: AWS
         details: |
-          As Head of Data Science I was tasked with building up the data science team from
+          As Head of Data Science I am currently building up the data science team from
           scratch, orchestrating recruitment, team development and implementing strategic
           initiatives to enhance the organization's data analytics capabilities.
 
-            - Recruitment and development of a high-performing data science team
-            - Cultivated a data-driven culture across the organization
-            - Implemented a modern data stack to optimize data analytics capabilities.
+            - Recruiting and developing a high-performing data science team
+            - Cultivating a data-driven environment across the organization
+            - Implementing a modern data stack to optimize data analytics capabilities
 
       - role: Business Intelligence Analyst
         time: 10/2021 - 02/2023
-        company: PŸUR | Tele Columbus
+        company: PŸUR | Tele Columbus AG
         tags:
           - name: Python
           - name: dbt
@@ -147,6 +148,7 @@ experiences:
           the tech stack and moving away from Excel-driven analytics and
           building a modern analytical tool on top of
           a centralized data warehouse.
+  
             - Modernization of IT infrastructure
             - Building a data warehouse
             - Development of a modern analytical toolset for auditing
@@ -165,9 +167,9 @@ experiences:
           This included developing and automating the existing reports and working together
           with other business teams to create new insights from data.
 
-          - Automation and optimization of business processes
-          - Development of data-driven analyses to address strategic and operational inquiries
-          - Design, modeling, and development of database applications
+            - Automation and optimization of business processes
+            - Development of data-driven analyses to address strategic and operational inquiries
+            - Design, modeling, and development of database applications
 
       - role: Data Scientist
         time: 2018
@@ -175,10 +177,15 @@ experiences:
         tags:
           - name: Python
           - name: Machine Learning
+          - name: Marketing
+          - name: Web Scraping
         details: |
           During my studium I was able to work part-time with a team of data scientists
           on developing machine learning models for targeted marketing and recommendation
           systems.
+
+          - Implemented a web scraping solution to analyze competitor's pricing models
+          - Developed next best action models for marketing campaigns
       
       - role: Working Student Risk Management
         time: 2016 - 2018
@@ -225,22 +232,22 @@ experiences:
 #             justo diam viverra velit, sed rhoncus leo leo eu justo.
 #             Suspendisse placerat risus ante, sed porta nisi blandit at.
 
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-        tags:
-          - name: Python
-            # color: red
-          - name: Django
-          - name: Redis
-          - name: Docker
+# projects:
+#     title: Projects
+#     intro: >
+#       You can list your side projects in this
+#       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#     assignments:
+#       - title: Velocity
+#         link: "#hook"
+#         tagline: "A responsive website template designed to help startups promote, market and sell their products."
+#         tags:
+#           - name: Python
+#             # color: red
+#           - name: Django
+#           - name: Redis
+#           - name: Docker
 
 
 # oss:
@@ -282,8 +289,8 @@ skills:
       - name: Python
         level: 90%
 
-      - name: HTML5 & CSS
-        level: 90%
+      - name: Machine Learning
+        level: 75%
 
       - name: Django
         level: 80%
@@ -299,6 +306,13 @@ skills:
 
       - name: Docker
         level: 60%
+
+      - name: HTML5 & CSS
+        level: 90%
+
+      - name: dbt
+        level: 75%
+
 
 # footer: >
     # Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
