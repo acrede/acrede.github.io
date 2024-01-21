@@ -35,15 +35,19 @@ sidebar:
       info:
         - idiom: 🇩🇪 German
           level: Native
+          icon: de.png
 
         - idiom: 🇬🇧 English
           level: Professional
+          icon: gb.png
 
         - idiom: 🇫🇷 French
           level: Intermediate
+          icon: fr.png
 
         - idiom: 🇳🇱 Dutch
           level: Beginner
+          icon: nl.png
 
     # interests:
     #   title: Interests

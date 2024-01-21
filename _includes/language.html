@@ -9,6 +9,7 @@
   <ul class="list-unstyled interests-list">
     {% for language in languages.info %}
     <li>
+      <img class="lang-icon" src="{{ site.baseurl }}/assets/images/{{ language.icon }}" alt="" />
       {{ language.idiom }}
       <span class="lang-desc">({{ language.level }})</span>
     </li>

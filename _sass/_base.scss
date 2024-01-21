@@ -136,6 +136,12 @@ p {
     .lang-desc {
       color: rgba(256, 256, 256, 0.6);
     }
+
+    .lang-icon {
+      height: 1rem;
+      width: auto;
+      border-radius: 2px;
+    }
   }
 
   .languages-list {
