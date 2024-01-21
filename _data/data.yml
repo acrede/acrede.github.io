@@ -107,8 +107,11 @@ experiences:
           - name: Python
           - name: Machine Learning
           - name: Leadership
+          - name: LLM
           - name: MLOps
           - name: AWS
+          - name: dbt
+          - name: Apache Airflow
         details: |
           As Head of Data Science I am currently building up the data science team from
           scratch, orchestrating recruitment, team development and implementing strategic
@@ -125,7 +128,7 @@ experiences:
           - name: Python
           - name: dbt
           - name: Oracle DB
-          - name: Qlik Sende Enterprise
+          - name: Qlik Sense Enterprise
           - name: Apache Airflow
           - name: Django
         details: |
