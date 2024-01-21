@@ -33,19 +33,19 @@ sidebar:
     languages:
       title: Languages
       info:
-        - idiom: 🇩🇪 German
+        - idiom: German
           level: Native
           icon: de.png
 
-        - idiom: 🇬🇧 English
+        - idiom: English
           level: Professional
           icon: gb.png
 
-        - idiom: 🇫🇷 French
+        - idiom: French
           level: Intermediate
           icon: fr.png
 
-        - idiom: 🇳🇱 Dutch
+        - idiom: Dutch
           level: Beginner
           icon: nl.png
 
