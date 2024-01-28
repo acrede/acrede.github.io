@@ -324,6 +324,12 @@ skills:
       - name: dbt
         level: 75%
 
+      - name: AWS
+        level: 50%
+
+      - name: LLM
+        level: 60%
+
 
 # footer: >
     # Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
