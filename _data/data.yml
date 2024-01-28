@@ -131,6 +131,7 @@ experiences:
           - name: Qlik Sense Enterprise
           - name: Apache Airflow
           - name: Django
+          - name: Docker
         details: |
            In  my role as Business Intelligence Analyst I contributed to the team's innovative efforts
            by promoting the introduction of Python into our team's tech stack and introducing and administering
@@ -168,6 +169,8 @@ experiences:
           - name: R
           - name: VBA
           - name: VB.NET
+          - name: SAP BW
+          - name: Excel
         details: |
           I rejoined my department where I worked in as working student and took more
           responsiblity for the reporting processes in Risk Management and other departments.
@@ -186,8 +189,9 @@ experiences:
           - name: Machine Learning
           - name: Marketing
           - name: Web Scraping
+          - name: MS SQL
         details: |
-          During my studium I was able to work part-time with a team of data scientists
+          During my studies I was able to work part-time with a team of data scientists
           on developing machine learning models for targeted marketing and recommendation
           systems.
 
